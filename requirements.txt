@@ -1,5 +1,4 @@
-pip
 streamlit
-xlrd
+pip
 openpyxl
 pandas
